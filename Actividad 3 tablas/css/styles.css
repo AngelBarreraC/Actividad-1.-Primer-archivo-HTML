@@ -1,3 +1,6 @@
+html{
+    background:darkgrey;
+}
 body {
     background-color: white;
     padding-top: 50px;
@@ -42,6 +45,13 @@ td, tr{
     padding-top: 30px;
     padding-bottom: 30px;    
 }
+.th1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.a0{
+    background:rgb(240, 202, 208);
+}
 .a1{
     background-color: darkgoldenrod;
     font-style: italic;
@@ -60,6 +70,9 @@ td, tr{
 }
 .a5{
     background-color:lightgray;
+}
+.b1{
+    padding-top: 5px; padding-bottom: 5px;
 }
 .textf{
     font-family: Arial, Helvetica, sans-serif;
