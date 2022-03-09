@@ -1,0 +1,29 @@
+body{
+    /*Para poner el fondo y hacer que se acomode y ajuste al tamaño navegador*/
+    background: url(../img/fondo.jpg) no-repeat center center fixed;
+    background-size: cover; /*sea tipo cortada o que cubra toda el area*/
+}
+.main-section{
+    margin:auto ;
+    margin-top: 25%;
+    padding: 0%;
+}
+.modal-content{
+    background-color:black;
+    opacity: .85;
+    padding: 0 20px;
+    box-shadow: 0px 0px 3px #848484;
+}
+.user-img{ /*Subimos la imagen 50 pixeles*/
+    margin-top: -50px;
+    margin-bottom: 35px;
+}
+.user-img img{ /*le da un ancho y un alto a la imagen*/
+    width: 200px;
+    height: 200px;
+}
+.form-group input{
+    height: 40px;
+    font-size: 15px;
+    padding-left: 50px;
+}
