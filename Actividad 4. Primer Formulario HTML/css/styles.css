@@ -27,3 +27,7 @@ body{
     font-size: 15px;
     padding-left: 50px;
 }
+.form-check{
+    padding-left: 50px;
+    height: 40px;
+}
