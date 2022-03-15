@@ -1,6 +1,3 @@
-html{
-    background-color: darkgray;
-}
 body {
     padding-top: 50px;
     padding-left: 300px;
@@ -9,10 +6,53 @@ body {
     margin-left: auto; 
     margin-right: auto;
    }
+   .pad{
+    padding-right: 1rem;
+    border-right:4px solid #fff;
+}
+.br{
+    padding: 1rem;
+    border:2px solid #fff;
+    color: #fff;
+}
 .firts{
-    background-color: aqua;
-    text-align: center;
+    background-color:mediumturquoise;
 }
-div[class|="col"]{
+.two{
+    background-color:rgb(182, 218, 112);
+}
+.three{
+    background-color: rgb(255, 232, 236);
+}
+
+.four{
+    background-color: rgb(218, 244, 253);
+}
+.five{
+    background-color:rgb(192, 119, 119) ;
+   
+}
+.es{
+    margin-bottom: 10px;
+}
+.six{
+    background-color:lime;
+}
+.seven{
+    background-color:sandybrown;
+}
+.eight{
+    background-color: rgb(238, 238, 99);
+}
+.nine{
+    background-color: red;
+}
+.br1{
+    padding: 1rem;
+    border:2px solid #fff;
+    color: #fff;
+}
+
+/*div[class|="col"]{
     border:rgb(10, 10, 10) solid 1px;
-}
+}*/
