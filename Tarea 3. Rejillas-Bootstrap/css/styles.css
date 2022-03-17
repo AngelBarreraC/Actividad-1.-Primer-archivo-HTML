@@ -6,6 +6,22 @@ body {
     margin-left: auto; 
     margin-right: auto;
    }
+.body1 {
+    padding-top: 50px;
+    padding-left: 600px;
+    padding-right: 600px;
+    padding-bottom: 50px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.body2 {
+    padding-top: 50px;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    margin-left: auto; 
+    margin-right: auto;
+}
    .pad{
     padding-right: 1rem;
     border-right:4px solid #fff;
@@ -47,12 +63,53 @@ body {
 .nine{
     background-color: red;
 }
-.br1{
-    padding: 1rem;
-    border:2px solid #fff;
-    color: #fff;
+.ten{
+    background-color:magenta;
 }
+.eleven{
+    padding-left: 0.5 rem;
+    border-left: 5px solid orange;
+    border-right: 5px solid orange;
+    padding-bottom: 0.5px;
+    padding-top: 1px;
 
+}
+.twelve{
+    background-color: skyblue;
+}
+.thirteen{
+    background-color: darkgrey;
+}
+.bord1{
+    border-left: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+.bord2{
+    border-right: 2px solid blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+.bord3{
+    border-right: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+.bord4{
+    border-left: 2px solid blue;
+    border-top: 2px solid blue;
+}
+.bord5{
+    border-right: 2px solid blue;
+    border-top: 2px solid blue;
+}
+.pad1{
+    padding: 2px;
+}
+.text-1{
+    color:black
+}
+.fourteen{
+    background-color: rgb(248, 206, 128)
+}
 /*div[class|="col"]{
     border:rgb(10, 10, 10) solid 1px;
 }*/
