@@ -1,0 +1,19 @@
+body{
+    background: #000000;
+    background: linear-gradient(to right, #3a2b28, #9ecf6f);
+}
+
+.bg-img{
+    background-image :  url(logo.png); ;
+    background-position: center center;
+    
+}
+.btn-primary{
+    color: #ffffff;
+    background-color: black;
+}
+
+.nav-letras{
+    color:black;
+    text-align: right;
+}
